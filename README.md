@@ -1,5 +1,9 @@
 # Prática 5: Configuração do SystemD e Controle de Versão com Git
 
+## Autor
+  Guilherme Pedro de Oliveira Souza 
+  N°USP11801178
+
 ## Resumo da Prática
 
 A prática teve como objetivo configurar um serviço de inicialização personalizada para sistemas embarcados com Linux, usando o SystemD, e controlar versões dos arquivos de código utilizando Git e GitHub. Foi configurado um serviço SystemD que inicializa automaticamente um script de controle de LED em uma Raspberry Pi durante o boot do sistema. Além disso, foram demonstrados processos de versionamento com Git e uso do GitHub para organizar e compartilhar o código.
