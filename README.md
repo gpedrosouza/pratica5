@@ -2,7 +2,7 @@
 
 ## Autor
   Guilherme Pedro de Oliveira Souza 
-  N°USP11801178
+  N°USP 11801178
 
 ## Resumo da Prática
 
